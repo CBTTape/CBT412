@@ -1,0 +1,13 @@
+2023-04-03 00:07:16.393038 - Initialized conversion of CBT412
+2023-04-03 00:07:16.415441 - Received CBT.V504.FILE412.PDS from FILE412.XMI 
+2023-04-03 00:07:16.416653 - Found CONFIGXX.bin containing application/octet-stream, moved to PDS/CONFIGXX
+2023-04-03 00:07:16.417779 - Found DDDEFCHK.bin containing application/octet-stream, moved to PDS/DDDEFCHK
+2023-04-03 00:07:16.418813 - Found DDDEFPTH.bin containing application/octet-stream, moved to PDS/DDDEFPTH
+2023-04-03 00:07:16.419875 - Found DELNOENQ.bin containing application/octet-stream, moved to PDS/DELNOENQ
+2023-04-03 00:07:16.420792 - Found LISTSYM.bin containing application/octet-stream, moved to PDS/LISTSYM
+2023-04-03 00:07:16.421699 - Found SLEEP.bin containing application/octet-stream, moved to PDS/SLEEP
+2023-04-03 00:07:16.422588 - Found STEMPULL.bin containing application/octet-stream, moved to PDS/STEMPULL
+2023-04-03 00:07:16.423548 - Found STEMPUSH.bin containing application/octet-stream, moved to PDS/STEMPUSH
+2023-04-03 00:07:16.424488 - Found VARYDASD.bin containing application/octet-stream, moved to PDS/VARYDASD
+2023-04-03 00:07:16.425377 - Found VTOCUTIL.bin containing application/octet-stream, moved to PDS/VTOCUTIL
+2023-04-03 00:07:16.426403 - No @FILExxx or @FILxxxx detected, creating README.md without extra info
